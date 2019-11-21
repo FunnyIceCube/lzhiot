@@ -14,6 +14,11 @@
     <artifactId>parent</artifactId>
     <version>1.0.0-SNAPSHOT</version>
 
+    <modules>
+        <module>consvr</module>
+        <module>device-manager</module>
+    </modules>
+
     <properties>
         <java.version>1.8</java.version>
         <source.level>1.8</source.level>
